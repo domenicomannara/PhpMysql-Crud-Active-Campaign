@@ -15,7 +15,7 @@ CRUD for Active Campaign with php and Mysql
     <br /> const URL_DEV = "https://your-account.api-us1.com/api/3";  // Insert your personal data
     <br /> const API_TOKEN = "<Insert your API TOKEN>"; // Insert your personal data
 
-    <br />
+    
     // Insert data of your Database
     const HOST = "";
     const DB_NAME  = "";
