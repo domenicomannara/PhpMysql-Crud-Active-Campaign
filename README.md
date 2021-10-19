@@ -13,8 +13,8 @@ CRUD for Active Campaign with php and Mysql
 
 <p>Data to modify first to run the code:</p>
 <p>
-    const URL_DEV = "https://<your-account>.api-us1.com/api/3";  // Insert your personal data
-    const API_TOKEN = "<Insert your API TOKEN>"; // Insert your personal data
+    <br /> const URL_DEV = "https://<your-account>.api-us1.com/api/3";  // Insert your personal data
+    <br /> const API_TOKEN = "<Insert your API TOKEN>"; // Insert your personal data
 
     
     // Insert data of your Database
